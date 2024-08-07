@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Threat Detection Home Lab Using Splunk and Sysmon](https://github.com/KeithSingleton3/Threat-Detection-Home-Lab-Using-Splunk-and-Sysmon/tree/main)
+  - [Telemetry Analysis Home Lab with Splunk and Sysmon](https://github.com/KeithSingleton3/Threat-Detection-Home-Lab-Using-Splunk-and-Sysmon/tree/main)
   - [Active Directory Home Lab](https://github.com/KeithSingleton3/Threat-Detection-Home-Lab-Using-Splunk-and-Sysmon/tree/main)
 
 <h2> Certifications</h2>
